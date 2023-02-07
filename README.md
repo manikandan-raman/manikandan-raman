@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manikandan (@Maniyuvan)
+- 👋 Hi, I’m Manikandan (@maniyuvan)
 - 👀 I’m interested in Backend Development
-- 📫 LinkedIn: www.linkedin.com/in/manikandan-raman-446ma
+- 💻 Have Experience in working with JavaScript and TypeScriptm also with frameworks like Angular, React, NestJS, etc.,
 
