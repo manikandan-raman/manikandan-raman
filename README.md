@@ -1,8 +1,8 @@
 ## 👨‍💻 About Me:  
 👋 Hi, I’m Manikandan (@maniyuvan)<br>
-👀 I’m interested in Backend Development<br> 
-📘  Currently learning Frontend development <br>
-💻 Have Experience in working with JavaScript and TypeScriptm also with frameworks like Angular, React, NestJS, etc.,
+👀 I’m interested in Full Stack Development<br> 
+💻 Have Experience in working with JavaScript and TypeScript also with frameworks like Angular, React, NestJS, etc., <br>
+:blue_book: Have Experience in working with databases like MySQL, PostgreSQL, MongoDB.<br>
 
 
 ## 🌐 Social Networks:
